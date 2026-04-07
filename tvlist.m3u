@@ -1103,7 +1103,7 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://222.128.55.152:9080/live/fc.m3u8
 #EXTINF:-1 group-title="港台頻道" ,年代新闻台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQvzDmsGPRsuRU2uKtozBIbVuj3nQ76zeQNSfvlqaCO74L1hE9YA3539hcp4FLk3RsP67gciU6sMI9_Ho3bTvoNl5lAWH0RAIF53EiwGIB1btqj1CJWfr7pdC0PMT5nku57JdhxBU8vjD_Be8N6lFdkCGP61-QcU2SJ38Xv_HOGSnGTLVAVAzlWXdVwjiDGte9w.m3u8?u=1756878715
-#EXTINF:-1 group-title="港台頻道" ,TVB功夫台国语
+#EXTINF:-1 group-title="港台頻道" ,TVB功夫台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUUozK_Ksd89ERNm_NAUBu16A4cLsQI1PSl_5O77xEGGMmoK1bKIfd0W4-XoUhk6g_-ClaZeD2_uCh9wtZv6_R4uWrm16gDPabQzEbvP6BDrW5fAMXEZSo7mskImOREoRzvDErR7f-q5ehFokKtLzXSuhiIzfSwyf7_iQTUCMbZFCRNozz0s2AKITmI_p6n22XFW5nB2Mkc4-1QtOYifle-b2c6jMYQtcuF76Wx0xGqsk.m3u8?u=1756878715
 #EXTINF:-1 group-title="港台頻道" ,TVB功夫台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUUozK_Ksd89ERNm_NAUBu1-2KloEDbSnxQMhdxYThJ_6LbsKyNNJMwXn-v4ExhSVYAYpe90fGSiM5BW53IHKkDMMGREPxHKV30dVCx7Y9MdzaMQBGvniPzTaiAUAW5zJNvjWtXvkW_dDeVfcnSeK3KlxrrwYwNGyVJ0dfij06HLRT2ckA9eUdrDJjji4aBmxo9wE8V6AvQ9yIgsvBD3PXFfdxJIxduTZ-1H2ZjEXj_J8.m3u8?u=1756878715
@@ -1199,8 +1199,6 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 group-title="港台頻道" ,动物星球频道
 http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 group-title="港台頻道" ,WWE格斗
-http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 #EXTINF:-1 group-title="港台頻道" ,TVB黃金華劇
 http://iptv.4666888.xyz/iptv2A.php?id=34
 #EXTINF:-1 group-title="港台頻道" ,TVB翡翠(馬來)
