@@ -1266,7 +1266,20 @@ http://iptv.4666888.xyz/iptv2A.php?id=64
 #EXTINF:-1 group-title="港台頻道" ,綜藝大贏家
 http://iptv.4666888.xyz/iptv2A.php?id=65
 
-
+#EXTINF:-1 group-title="会员频道" ,HBO
+http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="会员频道" ,HBO精选
+http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="会员频道" ,HBO喜剧
+http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="会员频道" ,HBO王牌
+http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="会员频道" ,Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="会员频道" ,Cinemax精选
+http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
+#EXTINF:-1 group-title="会员频道" ,Cinemax经典
+http://23.237.104.106:8080/USA_5STARMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="会员频道" ,东森电影
 http://rihou.cc:555/tv/东森电影
 #EXTINF:-1 group-title="会员频道" ,翡翠台4K(多音轨字幕)
